@@ -12,7 +12,7 @@
 <li>JAYAKUMAR J</li> 
 <li>BALAJI B </li>
 <li>RAMPRAKASH P</li>
-<li>ARASAKUMARAN</li>
+<li>ARASAKUMARAN P</li>
 
 <h1>📝PROJECT DESCRIPTION</h1> 
 
@@ -25,7 +25,7 @@ During the COVID 19 crisis, the requirement of plasma became a high priority and
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> </p>
 
 #### <img src="https://acegif.com/wp-content/uploads/loading-73.gif" width="15" height="15">DATABASE
-<p> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://jk-1.s3.jp-tok.cloud-object-storage.appdomain.cloud/IBM.png" alt="sqlite" width="40" height="40"/> </a> </p>
 
 #### <img src="https://acegif.com/wp-content/uploads/loading-73.gif" width="15" height="15">DEVOPS
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> </p>
